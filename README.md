@@ -2,10 +2,10 @@
 
 ## Learning Goals
 
-- Describe how the DOM works as a tree.
-- Define the computer science version of "Tree".
+- Describe how the DOM works as a tree
+- Define the computer science version of "Tree"
 - Ask the DOM to find or "select" an HTML element or elements in the rendered
-  page.
+  page
 
 ## Introduction
 
